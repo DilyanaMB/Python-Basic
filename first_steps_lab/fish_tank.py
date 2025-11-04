@@ -1,5 +1,5 @@
 length = int(input())
-wight = int(input())
+width = int(input())
 height = int(input())
 percent = float(input())/100
 
