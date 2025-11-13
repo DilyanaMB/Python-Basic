@@ -15,6 +15,7 @@ if club_card.lower() == 'yes':
     GAS -= 0.08
 
 price =0
+
 if type.lower() == 'gasoline':
     price = GASOLINE * fuel_litters
 elif type.lower() == 'diesel':
